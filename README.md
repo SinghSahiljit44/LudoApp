@@ -1,5 +1,4 @@
 # LudoApp
-LudoApp
 A basic yet functional Ludo game with the following features:
 - Graphical User Interface (GUI): Built using Java Swing for an interactive and visually appealing gameplay experience
 - Architecture: Designed following the Model-View-Controller (MVC) pattern, ensuring a clear separation of game logic, UI, and user interaction handling.
